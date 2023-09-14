@@ -1,8 +1,8 @@
-# Breast Cancer Classification
+#Cancer Classification
 
 ## Overview
 
-This repository contains a machine learning project focused on breast cancer classification. The primary goal of this project is to build a classification model that can effectively classify breast cancer cases into two classes: **Class 2** and **Class 4 **.
+This repository contains a machine learning project focused on  cancer classification. The primary goal of this project is to build a classification model that can effectively classify  cancer cases into two classes: **Class 2** and **Class 4 **.
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ Based on the accuracy score of the confusion matrix, the Decision Tree model was
 
 ## Results
 
-Here are the accuracy scores for each classification model on the breast cancer dataset:
+Here are the accuracy scores for each classification model on the  cancer dataset:
 
 - Logistic Regression: 0.9474
 - K-Nearest Neighbors: 0.9474
@@ -52,5 +52,5 @@ Here are the accuracy scores for each classification model on the breast cancer 
 - Decision Tree: 0.9591
 - Random Forest: 0.9474
 
-The Decision Tree model achieved the highest accuracy score of 0.9591 and was selected as the best model for classifying breast cancer cases into Class 2  and Class 4 .
+The Decision Tree model achieved the highest accuracy score of 0.9591 and was selected as the best model for classifying  cancer cases into Class 2  and Class 4 .
 
